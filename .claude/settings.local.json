@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(fuser -v /dev/ttyACM1)",
+      "Bash(~/.platformio/penv/bin/pio run *)",
+      "Bash(~/.platformio/penv/bin/python -c ' *)",
+      "Bash(nmcli device *)",
+      "Bash(nmcli -f SSID,BSSID,CHAN,SIGNAL device wifi list)"
+    ]
+  }
+}
