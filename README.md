@@ -216,3 +216,10 @@ To change these, edit `src/config.h`:
 | 9 | I2C SCL |
 | 10 | Activity LED |
 | 20 | Passive buzzer |
+
+---
+
+## Resources
+
+### Contributors  
+- [Original Project](https://www.huyvector.org/robots-kinetic/diy-cute-desk-robot-mo-chan) - Credit to Huy Vector for the original (to me at least) Mochan Desk Robot.
