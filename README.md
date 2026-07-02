@@ -221,7 +221,7 @@ To change these, edit `src/config.h`:
 
 ## Crude Wiring Diagram
 
-<img width="816" height="1056" alt="Mochan_ToF_wires" src="https://github.com/user-attachments/assets/0fd364b9-283a-468e-8682-4cafea041cab" />
+<img width="816" height="1056" alt="mochan_ToF_lines" src="https://github.com/user-attachments/assets/f60698fa-0e3c-43f9-b9f4-18412ae6c0b2" />
 
 ---
 
